@@ -1,0 +1,40 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Ignore FFmpeg binaries and related files
+ffmpeg.exe
+ffprobe.exe
+ffplay.exe
+ffmpeg/
+ffprobe/
+ffplay/
+*.dll
+*.so
+*.dylib
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environment
+venv/
+env/
+ENV/
+.venv/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Output directories
+chapters_m4a/
+audio_books/
+
+# Temporary files
+*.mp3
+*.m4a
+*.log
+*.tmp
+
+# VS Code settings
