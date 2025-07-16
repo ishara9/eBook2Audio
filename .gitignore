@@ -22,6 +22,25 @@ venv/
 env/
 ENV/
 .venv/
+venv3/
+.venv3/
+
+# Ignore all .webm and .wav files everywhere
+*.webm
+*.wav
+
+# Ignore other common audio/video formats
+*.mp3
+*.mp4
+*.m4a
+*.flac
+*.aac
+*.ogg
+*.txt
+*.ttf
+
+# Ignore files
+done/
 
 # OS files
 .DS_Store
