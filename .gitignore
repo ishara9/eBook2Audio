@@ -57,3 +57,7 @@ audio_books/
 *.tmp
 
 # VS Code settings
+
+# credentials
+credentials.json
+token.json
