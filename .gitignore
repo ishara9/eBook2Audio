@@ -61,3 +61,6 @@ audio_books/
 # credentials
 credentials.json
 token.json
+
+# Ignore Pdf files
+*.pdf
